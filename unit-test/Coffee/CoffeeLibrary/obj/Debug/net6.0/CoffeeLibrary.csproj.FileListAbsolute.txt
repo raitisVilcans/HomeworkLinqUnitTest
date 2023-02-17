@@ -1,0 +1,12 @@
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\bin\Debug\net6.0\CoffeeLibrary.deps.json
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\bin\Debug\net6.0\CoffeeLibrary.dll
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\bin\Debug\net6.0\CoffeeLibrary.pdb
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.csproj.AssemblyReference.cache
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.AssemblyInfoInputs.cache
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.AssemblyInfo.cs
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.dll
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\refint\CoffeeLibrary.dll
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\CoffeeLibrary.pdb
+C:\Users\raitis.vilcans\Desktop\bootcamp\unit-test\Coffee\CoffeeLibrary\obj\Debug\net6.0\ref\CoffeeLibrary.dll
